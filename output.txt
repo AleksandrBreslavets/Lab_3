@@ -1,0 +1,87 @@
+Counting started!
+Action 1 is performed from set a.
+Action 2 is performed from set a.
+Action 3 is performed from set a.
+Action 4 is performed from set a.
+
+Action 4 is performed from set c.
+Action 3 is performed from set c.
+Action 2 is performed from set c.
+Action 1 is performed from set c.
+
+Action 1 is performed from set b.
+Action 2 is performed from set b.
+Action 6 is performed from set c.
+Action 5 is performed from set c.
+
+Action 4 is performed from set b.
+Action 3 is performed from set b.
+Action 6 is performed from set b.
+Action 5 is performed from set b.
+
+Action 1 is performed from set e.
+Action 2 is performed from set e.
+Action 8 is performed from set b.
+Action 7 is performed from set b.
+
+Action 5 is performed from set e.
+Action 3 is performed from set e.
+Action 1 is performed from set d.
+Action 4 is performed from set e.
+
+Action 3 is performed from set d.
+Action 5 is performed from set d.
+Action 2 is performed from set d.
+Action 4 is performed from set d.
+
+Action 8 is performed from set d.
+Action 9 is performed from set d.
+Action 6 is performed from set d.
+Action 7 is performed from set d.
+
+Action 1 is performed from set f.
+Action 2 is performed from set f.
+Action 4 is performed from set f.
+Action 3 is performed from set f.
+
+Action 2 is performed from set g.
+Action 3 is performed from set g.
+Action 1 is performed from set g.
+Action 5 is performed from set f.
+
+Action 4 is performed from set g.
+Action 5 is performed from set g.
+Action 6 is performed from set g.
+Action 7 is performed from set g.
+
+Action 2 is performed from set h.
+Action 9 is performed from set g.
+Action 8 is performed from set g.
+Action 1 is performed from set h.
+
+Action 5 is performed from set h.
+Action 3 is performed from set h.
+Action 4 is performed from set h.
+Action 6 is performed from set h.
+
+Action 2 is performed from set i.
+Action 8 is performed from set h.
+Action 7 is performed from set h.
+Action 1 is performed from set i.
+
+Action 3 is performed from set i.
+Action 5 is performed from set i.
+Action 6 is performed from set i.
+Action 4 is performed from set i.
+
+Action 1 is performed from set j.
+Action 2 is performed from set j.
+Action 3 is performed from set j.
+Action 7 is performed from set i.
+
+Action 4 is performed from set j.
+Action 7 is performed from set j.
+Action 6 is performed from set j.
+Action 5 is performed from set j.
+
+Counting finished!
